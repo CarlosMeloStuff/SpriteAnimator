@@ -134,7 +134,6 @@ namespace KonLab
         /// Finds animation by given name and if it exists plays it instantly.
         /// </summary>
         /// <param name="name"></param>
-        /// <param name="loop"></param>
         /// <param name="startFrame"></param>
         public void Play(string name, int startFrame = 0)
         {
