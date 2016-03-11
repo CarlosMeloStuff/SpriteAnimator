@@ -151,7 +151,6 @@ namespace KonLab
         /// Instantly plays given animation.
         /// </summary>
         /// <param name="name"></param>
-        /// <param name="loop"></param>
         /// <param name="startFrame"></param>
         public void ForcePlay(string name, int startFrame = 0)
         {
